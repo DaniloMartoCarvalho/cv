@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Esse script lê um C.V template dentro do diretório './templates' e substitui todos os
-seus placeholder baseado nos dados fornecidos pelo módulo './datas.py'
+Esse script gera o meu C.V. baseado no modelo './templates/template.docx' usando os
+dados fornecidos pelo módulo './datas.py'
 """
 
 from docxtpl import DocxTemplate

@@ -1,5 +1,6 @@
 """
-Dicionário de dados para o C.V. template.
+Esse módulo apenas contêm um dicionário com todas as informações que serão usadas para
+preencher o placeholders do template.
 """
 
 datas = {
