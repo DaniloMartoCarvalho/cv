@@ -12,39 +12,30 @@ datas = {
     "email": "dmcarvalho.dmc@yandex.com",
     "endereco": "R. Tomé de Souza, 335. Nova Guará. Guaratinguetá-SP. 12515-590",
     "habilidades": [
-        "Manipulação e tratamento de dados usando o python, SQL e planilhas gráficas",
-        "Confecção de documentos e relatórios usando python e ferramentas gráficas de escritótio",
+        "Controle, manipulação, tratamento e análise de dados usando o python, SQL e ferramentas de planilhas.",
+        "Confecção de relatórios ou documentos em geral usando python, latex ou ferramentas gráficas de uso comum em escritório.",
         "Familiaridade com ambiente Linux",
         "inglês suficiente apenas para leitura",
     ],
-    "formacao_academica": [
+    "escolas": [
         {
             "ano": "2012",
             "curso": "Ensino Médio",
-            "instituicao": "EE. Prof. Francisco Costa Braga",
-            "status": "completo",
+            "escola": "EE. Prof. Francisco Costa Braga",
         },
         {
             "ano": "2023-presente",
             "curso": "Assistente de contabilidade",
-            "instituicao": "Gualifica Guará",
+            "escola": "Gualifica Guará",
             "status": "Cursando",
         },
     ],
-    "experiencia_profissional": [
+    "experiencias": [
         {
             "ano": "2021-2022",
             "cargo": "Aux. administrativo",
             "empresa": "Valetur Transportes Locação e Turismo LTDA",
-            "atuacoes": [
-                "Responsável por monitorar a prontidão dos motoristas colaboradores",
-                "Responsável pelo acompanhamento os trabalhos da equipe de limpeza da frota",
-                "Responsável por prover os recursos para a hidratação, aquecimento e entretenimento em cada viagem contratada quando solicitado",
-                "Responsável por gerenciar as fichas de controle de viagem", 
-                "Responsável pelo treinamento de check in e check out dos novos motoristas colaboradores",
-                "Suporte administrativo ao setor de manutenção com tarefas de coleta de dados sobre a frota",
-                "Suporte administrativo ao setor comercial com tarefas de agendamento de viagens tanto no sistema interno como em órgãos reguladores de transporte rodoviário (Artesp e ANTT)",
-            ]
+            "atuacao": "Agente do Dep. Operacional encarregado da execução de todas as depandas do Dep além de suprir qualquer necessidade administrativa dos Dep. de Manutenção e Comercial",
         }
     ]
 }
