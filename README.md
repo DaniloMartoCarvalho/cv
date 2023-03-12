@@ -1,17 +1,19 @@
-# Curriculum Vitae
+<h1 align="center">Curriculum Vitae</h1>
 
-Eu sei que é um exagerou usar o python para criar um simples C.V., mas eu não estou
-nem ai. Eu posso fazer, então eu fiz.
+<p align="center">
+Script, modelos e dados empregados para gera o meu C.V.
+</p>
 
-## Descrição
+<p> Pus-me a criar esse repositório visando versionar os templates que crio para o
+meu C.V. bem como facilitar a atualização das minhas informações profissionais
+em cada um deles.</p>
 
-O meu C.V. é estruturado com base no `./templates/template.docx`, responsável por
-organizar as seções de informações. Já o seu conteúdo, advem do dicionário `datas` do
-módulo`./datas.py`.
-
-O script, `main.py` em si é bem simples, ele apenas importa o template e o dicionário de dados,
-adicionao os dados ao contexto do template e gera um arquivo `cv.docx`.
+<p>
+Todos os templates são escritos usando o Libreoffice Write, servido apenas
+para estruturação de conteúdo. Com os dados do C.V. sendo dinamicamente
+adicionados via um script python bem simples.
+</p>
 
 ## VERSÃO
 
-0.1.0
+0.2.0
